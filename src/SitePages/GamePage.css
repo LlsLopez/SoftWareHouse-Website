@@ -1,0 +1,338 @@
+html{
+    height:850px;
+    background-image: linear-gradient(rgb(7, 7, 77),gray);
+
+
+}
+
+#heading{
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+ 
+ }
+ 
+ .banner
+{
+    color:rgb(139, 130, 148);
+    text-align:center;
+    background-image:url("https://adcsuf.sharepoint.com/:i:/r/sites/Soft-Warehouse/Pictures/silverBanner.jpg?csf=1&e=hCo56d");
+    background-size:cover;
+    margin:0px;
+    height:100px;
+    outline:3px dotted rgb(213, 206, 224);
+    
+}
+
+#title{
+    padding-top:20px;
+    padding-bottom:20px;
+    color:rgb(255, 255, 255);
+    font-size:50px;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+
+.box1
+{
+    width: 250px; 
+    height:180px;  
+    padding: 0px;
+    border: 5px solid gray;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom:0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float:left;    
+}
+    
+
+.box2
+{
+    width: 250px; 
+    height:180px;  
+    padding: 0px;
+    border: 5px solid gray;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom:0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float:left;
+}
+
+#image1 { 
+    width: 275px; 
+    background-image: url("https://adcsuf.sharepoint.com/:i:/r/sites/Soft-Warehouse/Pictures/silverBanner.jpg?csf=1&e=hCo56d");
+    background-size:150px;   
+    
+
+ }
+ #image2 { 
+    width: 275px; background-image: url("https://adcsuf.sharepoint.com/:i:/r/sites/Soft-Warehouse/Pictures/silverBanner.jpg?csf=1&e=hCo56d");
+    background-size:150px;  
+ }
+
+ .box3
+{
+    width: 250px; 
+    height:180px;  
+    padding: 0px;
+    border: 5px solid gray;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom:0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float:left;
+}
+#image3 { 
+    width: 275px; background-image: url("https://adcsuf.sharepoint.com/:i:/r/sites/Soft-Warehouse/Pictures/silverBanner.jpg?csf=1&e=hCo56d");
+    background-size:150px;   
+}
+ .box4
+ {
+    width: 250px; 
+    height:180px;  
+    padding: 0px;
+    border: 5px solid gray;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom:0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float:left;
+ }
+ #image4 { 
+    width: 275px; background-image: url("https://adcsuf.sharepoint.com/:i:/r/sites/Soft-Warehouse/Pictures/silverBanner.jpg?csf=1&e=hCo56d");
+    background-size:150px;    
+}
+  .box5
+  {
+    width: 250px; 
+    height:180px;  
+    padding: 0px;
+    border: 5px solid gray;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom:0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float:left;
+  }
+  #image5 { 
+    width: 275px; background-image: url("https://adcsuf.sharepoint.com/:i:/r/sites/Soft-Warehouse/Pictures/silverBanner.jpg?csf=1&e=hCo56d");
+    background-size:150px;     
+}
+   .box6
+   {
+    width: 250px; 
+    height:180px;  
+    padding: 0px;
+    border: 5px solid gray;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom:0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float:left;
+   }
+   #image6 { 
+    width: 275px; background-image: url("https://adcsuf.sharepoint.com/:i:/r/sites/Soft-Warehouse/Pictures/silverBanner.jpg?csf=1&e=hCo56d");
+    background-size:150px;     
+}
+    .box7
+    {
+        width: 250px; 
+    height:180px;  
+    padding: 0px;
+    border: 5px solid gray;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom:0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float:left;
+    }
+    #image7 { 
+        width: 275px; background-image: url("https://adcsuf.sharepoint.com/:i:/r/sites/Soft-Warehouse/Pictures/silverBanner.jpg?csf=1&e=hCo56d");
+        background-size:150px;   
+    }
+     .box8
+     {
+        width: 250px; 
+        height:180px;  
+        padding: 0px;
+        border: 5px solid gray;
+        margin-top: 20px;
+        margin-left: 150px;
+        margin-bottom:0px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        float:left;
+     }
+     #image8 { 
+        width: 275px; background-image: url("https://adcsuf.sharepoint.com/:i:/r/sites/Soft-Warehouse/Pictures/silverBanner.jpg?csf=1&e=hCo56d");
+        background-size:150px;    
+    }
+      .box9
+      {
+        width: 250px; 
+        height:180px;  
+        padding: 0px;
+        border: 5px solid gray;
+        margin-top: 20px;
+        margin-left: 150px;
+        margin-bottom:0px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        float:left;
+      }
+      #image9 { 
+        width: 275px; background-image: url("https://adcsuf.sharepoint.com/:i:/r/sites/Soft-Warehouse/Pictures/silverBanner.jpg?csf=1&e=hCo56d");
+        background-size:150px;     
+    }
+
+    #text1{
+        color:white;
+        text-align:center;
+        font-size:20px;
+        background-color:black;
+       }
+
+     #link1{
+     margin-top:100px;
+     color:white;
+     font-size:17px;
+     float:right;
+     background-color:black;
+    }
+    #text2{
+        color:white;
+        text-align:center;
+        font-size:20px;
+        background-color:black;
+       }
+
+     #link2{
+     margin-top:100px;
+     color:white;
+     font-size:17px;
+    float:right;
+    }
+    #text3{
+        color:white;
+        text-align:center;
+        font-size:20px;
+        background-color:black;
+       }
+
+     #link3{
+     margin-top:100px;
+     color:white;
+     font-size:17px;
+    float:right;
+    }
+    #text4{
+        color:white;
+        text-align:center;
+        font-size:20px;
+        background-color:black;
+       }
+
+     #link4{
+     margin-top:100px;
+     color:white;
+     font-size:17px;
+    float:right;
+    }
+    #text5{
+        color:white;
+        text-align:center;
+        font-size:20px;
+        background-color:black;
+       }
+
+     #link5{
+     margin-top:100px;
+     color:white;
+     font-size:17px;
+    float:right;
+    }
+    #text6{
+        color:white;
+        text-align:center;
+        font-size:20px;
+        background-color:black;
+       }
+
+     #link6{
+     margin-top:100px;
+     color:white;
+     font-size:17px;
+    float:right;
+    }
+    #text7{
+        color:white;
+        text-align:center;
+        font-size:20px;
+        background-color:black;
+       }
+
+     #link7{
+     margin-top:100px;
+     color:white;
+     font-size:17px;
+    float:right;
+    }
+    #text8{
+        color:white;
+        text-align:center;
+        font-size:20px;
+        background-color:black;
+       }
+
+     #link8{
+     margin-top:100px;
+     color:white;
+     font-size:17px;
+    float:right;
+    }
+    #text9{
+        color:white;
+        text-align:center;
+        font-size:20px;
+        background-color:black;
+       }
+
+     #link9{
+     margin-top:100px;
+     color:white;
+     font-size:17px;
+    float:right;
+    }
+    #buttonContainer{
+        width: 1000px;
+        display:table;  	
+        margin-left: auto;
+        margin-right: auto;
+        text-align:center;
+
+    }
+    .button1 {
+        border:1px solid black;
+        width: 4vw;
+    }
+    .button2 {
+        border:1px solid black;
+        width: 4vw;
+    }
+  
+     

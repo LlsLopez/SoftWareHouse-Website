@@ -1,0 +1,48 @@
+html{
+    background-color:rgb(65, 64, 64);
+    background-image:url("https://adcsuf.sharepoint.com/:i:/r/sites/Soft-Warehouse/Pictures/newbackg.PNG?csf=1&e=9EC2Vs");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+#heading{
+   text-shadow: 3px 3px 3px rgb(0, 0, 0);
+
+}
+.banner
+{
+    color:rgb(139, 130, 148);
+    text-align:center;
+    background-image:url("https://adcsuf.sharepoint.com/:i:/r/sites/Soft-Warehouse/Pictures/aboutUsBanner.jpg?csf=1&e=LFHkj2");
+    background-size:cover;
+    margin:0px;
+    height:100px;
+    outline:3px dashed rgb(97, 63, 161);
+}
+#about{
+    padding-top:5px;
+    padding-bottom:20px;
+    color:rgb(255, 251, 251);
+    font-size:40px;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+#service{
+    color:rgb(236, 59, 59);
+    font-size:20px;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+#description
+{
+    padding-top:10px;
+    text-align:center;
+    color:white;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+    font-size:20px;
+}
+.copyRight{
+    text-align:right;
+    background-color: rgb(82, 77, 77);
+    height: 20px;
+    padding-bottom: -10px;
+}

@@ -1,0 +1,130 @@
+body{
+  background-color: black;
+}
+.soft{
+  color: white;
+  font-size: 75px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+text-shadow: 2px 2px red
+line-height:0px;
+
+}
+.warehouse{
+   color: red;
+  font-size: 75px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+text-shadow: 2px 2px white;
+line-height: 0px;
+}
+.subtitle{
+  color: white;
+  font-size: 25px;
+  font-style: italic;
+  font-family: inherit;
+  text-shadow: 1px 1px 1px red;
+  padding-left: 10px;
+  
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+* {
+  box-sizing: border-box;
+
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  border:5px solid black;
+  text-align: center;
+  border-radius: 20px;
+  float: left;
+  height: 300px; /* Should be removed. Only for demonstration */
+  
+}
+
+.left, .right {
+  width: 25%;
+}
+
+.middle {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.container {
+  align-self: center;
+  display: grid;
+  grid-template-columns:700px 700px;
+  background-color: black;
+  grid-gap: 10px;
+}
+.grid-item {
+  border-radius: 10px;
+  background-color: rgb(187, 179, 179);
+  padding: 10px;
+  white-space: 3px;
+}
+.grid-item .game{
+  padding: 5px;
+  border:2px solid black;
+  border-radius: 20px;
+  height: 80px;
+  width: 80px;
+  float: left;
+  background-color: black;
+}
+.horizonline{
+  height: 5px;
+  background-color: white;
+}
+.free{
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  border-radius: 50%;
+  
+  margin-bottom: 10px;
+  white-space: 3px;
+
+}
+a{
+  text-decoration: none;
+  color: blue;
+}
+a:hover{
+  color: white;
+}

@@ -1,0 +1,77 @@
+html{
+    background-color:rgb(209, 243, 255);
+    
+}
+.gameBanner{
+  background-color:green;
+  background-image:url("https://adcsuf.sharepoint.com/:i:/r/sites/Soft-Warehouse/Pictures/game%20preset.PNG?csf=1&e=39OCVZ");
+  padding:115px;
+  margin: 0px;
+
+}
+
+body{
+    margin:0;
+}
+
+.head1{
+   
+    background-color:rgb(54, 54, 172);
+    text-align:center;
+}
+h1{
+    color:lightblue;
+    
+}
+.container {
+    margin: auto;
+    width: 300px;
+    overflow: auto;
+    padding: 3rem 2rem;
+  }
+  
+  #myform {
+    padding: 0rem;
+    text-align:center;
+    background: #8f8585;
+  }
+  #myform2 {
+    padding: 0rem;
+    text-align:center;
+  }
+  
+  #myform label {
+    display: block;
+  }
+  .gameTitle
+  {
+    background-color:rgb(194, 194, 250);
+    text-align:center;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: 700;
+  }
+  
+  .gameGenre
+  {
+    background-color:rgb(54, 54, 172);
+    text-align:center;
+    font-size: 15px;
+    font-style:italic;
+    color: rgb(0, 255, 149);
+  }
+
+  .gameLink
+  {
+    text-align:center;
+    font-size: 12px;
+    font-style:italic;
+    color: red;
+  }
+
+  #myform3{
+    padding: 0rem;
+    text-align:right;
+    background: #8f8585;
+  }
+ 
